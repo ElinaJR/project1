@@ -1,0 +1,28 @@
+.search {border-radius: 25px;
+height: 60px;
+width: 30%;   
+background-color: lightgray;
+border: 0px;
+font-size: 20px;
+    }
+.one{ position: absolute; top: 30px; right: 70px;
+ border-radius: 50%;
+ border: 0px;
+color: white;
+background-color: #FF3A21;
+height: 50px;
+width: 50px;}
+.left-top {display: flex;
+          flex-direction: row;
+          justify-content: flex-end;  
+          padding-bottom: 0%;} 
+.middle-one {display: flex;
+            flex-direction: row;
+            justify-content: center;
+            padding-top: 15%;
+        }
+.bottom {display: flex; %;
+            padding-right: 10%;
+        margin-top: -50px;}
+            .icon{
+                margin:20px;} 
